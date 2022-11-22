@@ -1,6 +1,6 @@
 <div>
-  <img src="https://i.ibb.co/MfCxCRS/2022-11-22-16-13-07.png" alt="2022-11-22-16-13-07" border="0" width="450">
-  <img src="https://i.ibb.co/sQvS9Rc/2022-11-22-16-11-09.png" alt="2022-11-22-16-11-09" border="0" width="450">
+  <img src="https://i.ibb.co/MfCxCRS/2022-11-22-16-13-07.png" alt="2022-11-22-16-13-07" border="0" width="400">
+  <img src="https://i.ibb.co/sQvS9Rc/2022-11-22-16-11-09.png" alt="2022-11-22-16-11-09" border="0" width="400">
 </div>
 <h1>Проект: "Аренда премиальных автомобилей"</h1>
 Благодарю за проявленный интерес к <a href="https://elrouss.github.io/cars-hw/" target="_blank">проекту</a>.
